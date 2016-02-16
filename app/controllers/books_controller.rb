@@ -10,9 +10,6 @@ class BooksController < ApplicationController
 		end
 	end
 
-	def show
-	end
-
 	def new
 		@book = current_user.books.build
 		@categories = Category.all.map {|c| [c.name, c.id]}
