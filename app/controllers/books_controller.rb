@@ -1,5 +1,6 @@
 class BooksController < ApplicationController					
 	before_action :find_book, only: [:show, :edit, :update, :destroy]
+	before_action :authenticate_user!, only: [:new, :edit]
 
 	def index
 		if params[:category].blank?
@@ -7,6 +8,14 @@ class BooksController < ApplicationController
 		else
 			@category_id = Category.find_by(name: params[:category]).id
 			@books = Book.where(:category_id => @category_id).order("created_at DESC")
+		end
+	end
+
+	def show
+		if @book.reviews.blank?
+			@average_review = 0
+		else
+			@average_review = @book.reviews.average(:rating).round(2)
 		end
 	end
 
