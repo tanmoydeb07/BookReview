@@ -1,4 +1,5 @@
-In addition App has fuctionality to check who was created a post (book with addint summary, description, book image) and let him edit or delete just created post.
+In addition to description about BookReview App.
+BookReview has fuctionality to check who was created a post (book with addint summary, description, book image) and let him edit or delete just created post.
 
 Another users can view posts from any users, can comment, review (realized marking using css stars displaying), but thay can't edit or delete another review (only themselfs).
 Similar situation with book posts.
