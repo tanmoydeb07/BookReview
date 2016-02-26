@@ -6,4 +6,4 @@ Similar situation with book posts.
 
 There are also realized verification during login process. 
 
-![image](BookReview/Screen.Shot.2016-02-26.at.12.13.21.PM.png)
+![image](/BookReview/Screen.Shot.2016-02-26.at.12.13.21.PM.png)
