@@ -6,5 +6,3 @@ Similar situation with book posts.
 
 There are also realized verification during login process. 
 
-![image](https://github.com/PavloCherniovyi/BookReview/blob/master/screenshots/BookReview.main.page.png "oprional")
-
