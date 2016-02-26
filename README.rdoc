@@ -1,5 +1,3 @@
-#BookReview
-
 In addition to description about BookReview App.
 BookReview has fuctionality to check who was created a post (book with addint summary, description, book image) and let him edit or delete just created post.
 
