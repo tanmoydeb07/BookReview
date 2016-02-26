@@ -5,3 +5,5 @@ Another users can view posts from any users, can comment, review (realized marki
 Similar situation with book posts.
 
 There are also realized verification during login process. 
+
+BookReview/screenshots/BookReview.main.page.png
