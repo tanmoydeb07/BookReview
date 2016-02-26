@@ -6,4 +6,4 @@ Similar situation with book posts.
 
 There are also realized verification during login process. 
 
-BookReview/screenshots/BookReview.main.page.png
+![ScreenShot](BookReview/screenshots/BookReview.main.page.png)
