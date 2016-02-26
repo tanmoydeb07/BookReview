@@ -6,6 +6,6 @@ Similar situation with book posts.
 
 There are also realized verification during login process. 
 
-![ScreenShot](/BookReview/screenshots/BookReview.main.page.png?raw=true)
+![ScreenShot](/../BookReview/screenshots/BookReview.main.page.png?raw=true)
 
 ![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
