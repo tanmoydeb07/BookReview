@@ -6,5 +6,5 @@ Similar situation with book posts.
 
 There are also realized verification during login process. 
 
-![ScreenShot] (https://raw.github.com/PavloCherniovyi/BookReview/master/screenshots/BookReview.main.page.png)
+![ScreenShot] (https://github.com/PavloCherniovyi/BookReview/blob/master/screenshots/BookReview.main.page.png)
 
