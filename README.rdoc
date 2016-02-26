@@ -7,5 +7,5 @@ Similar situation with book posts.
 There are also realized verification during login process. 
 
 Main page:
-https://github.com/PavloCherniovyi/BookReview/blob/master/screenshots/BookReview.main.page.png
+![alt tag](https://github.com/PavloCherniovyi/BookReview/blob/master/screenshots/BookReview.main.page.png)
 
