@@ -8,5 +8,5 @@ Similar situation with book posts.
 
 There are also realized verification during login process. 
 
-![Alt text] (https://raw.githubusercontent.com/PavloCherniovyi/BookReview/master/screenshots/BookReview.main.page.png)
+! [Alt text] (https://raw.githubusercontent.com/PavloCherniovyi/BookReview/master/screenshots/BookReview.main.page.png)
 
